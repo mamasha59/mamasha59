@@ -1,13 +1,13 @@
 <h1 align="center">Привет 👋, меня зовут Алексей</h1>
 <h3 align="center">Начинающий front-end разработчик.</h3>
 
-- 🔭 В данный момент работаю над дипломной работой **Пока не известно**
+- 🔭 В данный момент работаю над дипломной работой **Дипломная работа ЯндекПрактикум по направлению frontend-разработчик**
 
 - 🌱 В данный момент изучаю -- **JavaScript - ReactJs**
 
 - 👨‍💻 Мой проект [https://future.bright.nomoredomains.club/sign-in](https://future.bright.nomoredomains.club/sign-in)
 
-- 📫 How to reach me **zukko961@gmail.com**
+- 📫 Связаться мо мной  **zukko961@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
