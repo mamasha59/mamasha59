@@ -5,4 +5,4 @@
 Проект Место (в процессе последних штрихов, исправляю верстку) написан бекенд(ExpresJS) и фрондетн (ReactJS)--https://future.bright.nomoredomains.club/sign-in 
 
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![github](https://github.com/mamasha59)
