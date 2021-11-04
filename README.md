@@ -5,7 +5,7 @@
 
 - 🌱 Сейчас изучаю -- **JavaScript - ReactJs**
 
-- 👨‍💻 Мой проект [https://future.bright.nomoredomains.club/sign-in](https://future.bright.nomoredomains.club/sign-in)
+- 👨‍💻 Мой проект [http://movies.tikhonov.nomoredomains.monster](http://movies.tikhonov.nomoredomains.monster)
 
 - 📫 Как связаться со мной **zukko961@gmail.com**
 
