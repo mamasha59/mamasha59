@@ -3,8 +3,6 @@
 
 - 🌱 Сейчас изучаю -- **JavaScript - ReactJs**
 
-- 👨‍💻 Мой проект [http://movies.tikhonov.nomoredomains.monster](http://movies.tikhonov.nomoredomains.monster)
-
 - 📫 Как связаться со мной **zukko961@gmail.com**
 
 <h3 align="left">Соцсети:</h3>
