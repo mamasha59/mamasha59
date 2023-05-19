@@ -1,6 +1,6 @@
 <h1 align="center">Привет 👋,меня зовут Алексей</h1>  
 <h1 align="center">Сайт портфолио - (https://portfolio-eta-eight-47.vercel.app/)</h1>
-<h3 align="center">Junior, учу новые технологии, верстаю, ставлю себе сложные задачи.</h3>
+<h3 align="center">Junior, учу новые технологии, верстаю, развиваюсь.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mamasha59" alt="mamasha59" /></a> </p>
 
